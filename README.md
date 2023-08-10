@@ -1,5 +1,5 @@
 # furniture-generation
-Finetuning Stable Diffusion v2.1 to generate aesthetic furniture 
+Finetuning Stable Diffusion v2.1 to generate aesthetic furniture.
 
 There are a lot of images in the [report](answers.pdf).
 
